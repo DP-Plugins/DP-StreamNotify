@@ -1,0 +1,10 @@
+name: DP-StreamNotify
+version: 1.1.0
+main: com.darksoldier1404.dpsn.StreamNotify
+authors: [ DEAD_POOLIO_ ]
+api-version: 1.20
+depend:
+  - DPP-Core
+commands:
+  dpsn:
+    aliases: [ streamnotify, 방송알림 ]
